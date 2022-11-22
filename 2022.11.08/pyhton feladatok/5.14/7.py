@@ -25,7 +25,7 @@ Eszti = turtle.Turtle()
 Eszti.color("blue", "red")
 Eszti.pensize(3)
 
-xs = [48,-117,200,240,160,-260,220]
+xs = [48,117,200,240,160,260,220]
 
 for m in xs:
     rajzolj_oszlopot(Eszti, m)
