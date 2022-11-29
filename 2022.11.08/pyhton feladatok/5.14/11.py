@@ -9,4 +9,3 @@ def derekszogu_e():
         print("A háromszög nem derékszögű")
 
 derekszogu_e()
-
