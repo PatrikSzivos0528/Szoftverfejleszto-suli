@@ -6,4 +6,4 @@ def szo_tisztitas(szo):
     return szo
 szo_tisztitas("hogyan?")
 szo_tisztitas("'most!'")
-szo_tisztitas("?+='s-z-a-v!a,k@$()'") 
+szo_tisztitas("?+='s-z-a-v!a,k@$()'")
